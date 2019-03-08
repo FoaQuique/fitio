@@ -1,0 +1,92 @@
+#stoned {
+  color:#FF0000;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: large; 
+  font-family: cursive;
+  margin-bottom: 120px;
+  }
+
+#sucursales{
+  margin-bottom: 60px;
+  text-transform: uppercase;
+  font-weight: bold;
+  color:#8A0808;
+  
+}
+
+.establecimientos {
+  margin-bottom: 70px;
+  
+}
+.carousel{
+  margin-bottom: 70px;
+  
+}
+#navbar-example2{
+  margin-top: 100px;
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+#formu{
+  width: 450px;
+  margin: auto;
+  background: #FE2E2E;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  margin-top: 20px;
+  border-radius: 7px;
+  font-family: Times;
+  font-style: italic;
+    }
+
+#contacto{
+  color: #FFF;
+  text-align: center;
+  margin: 0;
+  font-size: 30px;
+  margin-bottom: 20px;
+  }
+
+.area, .input{
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 7px;
+  box-sizing: border-box;
+  font-size: 17px;
+  border: none;
+}
+
+.area {
+  min-height: 100px;
+  max-height: 200px;
+  max-width: 100%;
+ }
+
+#boton{
+  background: #404A66;
+  color: #FFF;
+  padding: 20px;
+    
+}
+
+#boton:hover{
+  color:#F8FBEF;
+  background:#0F5378;
+}
+
+@media (max-width:480px){
+  formu{
+    width:100%;
+     }
+}
